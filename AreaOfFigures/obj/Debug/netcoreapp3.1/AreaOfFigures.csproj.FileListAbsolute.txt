@@ -1,0 +1,9 @@
+C:\Users\formidable\Desktop\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.csprojAssemblyReference.cache
+C:\Users\formidable\Desktop\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\formidable\Desktop\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfo.cs
+C:\Users\formidable\Desktop\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\formidable\Desktop\AreaOfFigures\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.deps.json
+C:\Users\formidable\Desktop\AreaOfFigures\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Users\formidable\Desktop\AreaOfFigures\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.pdb
+C:\Users\formidable\Desktop\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Users\formidable\Desktop\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.pdb

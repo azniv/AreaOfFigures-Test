@@ -1,0 +1,16 @@
+C:\Users\formidable\Desktop\AreaOfFigures\Area\obj\Debug\netcoreapp3.1\Area.csprojAssemblyReference.cache
+C:\Users\formidable\Desktop\AreaOfFigures\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfoInputs.cache
+C:\Users\formidable\Desktop\AreaOfFigures\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfo.cs
+C:\Users\formidable\Desktop\AreaOfFigures\Area\obj\Debug\netcoreapp3.1\Area.csproj.CoreCompileInputs.cache
+C:\Users\formidable\Desktop\AreaOfFigures\Area\bin\Debug\netcoreapp3.1\Area.exe
+C:\Users\formidable\Desktop\AreaOfFigures\Area\bin\Debug\netcoreapp3.1\Area.deps.json
+C:\Users\formidable\Desktop\AreaOfFigures\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.json
+C:\Users\formidable\Desktop\AreaOfFigures\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.dev.json
+C:\Users\formidable\Desktop\AreaOfFigures\Area\bin\Debug\netcoreapp3.1\Area.dll
+C:\Users\formidable\Desktop\AreaOfFigures\Area\bin\Debug\netcoreapp3.1\Area.pdb
+C:\Users\formidable\Desktop\AreaOfFigures\Area\bin\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Users\formidable\Desktop\AreaOfFigures\Area\bin\Debug\netcoreapp3.1\AreaOfFigures.pdb
+C:\Users\formidable\Desktop\AreaOfFigures\Area\obj\Debug\netcoreapp3.1\Area.csproj.CopyComplete
+C:\Users\formidable\Desktop\AreaOfFigures\Area\obj\Debug\netcoreapp3.1\Area.dll
+C:\Users\formidable\Desktop\AreaOfFigures\Area\obj\Debug\netcoreapp3.1\Area.pdb
+C:\Users\formidable\Desktop\AreaOfFigures\Area\obj\Debug\netcoreapp3.1\Area.genruntimeconfig.cache
